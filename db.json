@@ -8,5 +8,15 @@
       "id": 2,
       "title": "Post 2"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "yo, this shit is baller"
+    },
+    {
+      "id": 2,
+      "comment": "you suck dude"
+    }
   ]
 }
